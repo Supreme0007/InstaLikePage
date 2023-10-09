@@ -41,3 +41,23 @@ body{
     opacity: 0.8;
     transition: transform ease 0.5s;
 }
+
+.like{
+    font-size: 25px;
+    opacity: 0.8;
+    position: absolute;
+    bottom: 16%;
+    left: 40%;
+}
+
+.ri-heart-3-line:hover{
+    color: red;
+}
+
+.ri-chat-1-line:hover{
+    color: rgb(3, 105, 238);
+}
+
+.ri-share-forward-line:hover{
+    color: aliceblue;
+}
